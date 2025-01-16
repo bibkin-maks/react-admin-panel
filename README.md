@@ -1,4 +1,10 @@
 # Project Overview
+This is a React-based admin panel that provides you with the ability to:
+
+- Easily edit your products
+- View your orders
+- Edit categories with ease
+- View the users' database in a clear, organized way
 
 This project relies on a backend server implemented with **Node.js** to handle file uploads and save changes. Without starting the server using the following command, the project will not function correctly as it depends on the API endpoints to process requests and store data (e.g., saving uploaded files).
 
