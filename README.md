@@ -1,4 +1,6 @@
-# Project Overview
+![Screen Recording 2025-01-17 001145](https://github.com/user-attachments/assets/5cc89d77-9cdd-4cfc-937f-3d9860c05ec6)
+# Project Over
+view
 This is a React-based admin panel that provides you with the ability to:
 
 - Easily edit your products
