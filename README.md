@@ -28,11 +28,10 @@ This project relies on a backend server implemented with **Node.js** to handle f
 3. Start the server:
     ```bash
     node server.js
-```
+    ```
 4. Run the panel:
     ```bash
     npm start
-
     ```
 
 ## How It Works
