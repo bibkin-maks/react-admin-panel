@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-admin-panel/static/css/main.fd14b4f5.css",
+    "main.js": "/react-admin-panel/static/js/main.3624804c.js",
+    "static/js/453.e85d92eb.chunk.js": "/react-admin-panel/static/js/453.e85d92eb.chunk.js",
+    "static/media/8.jpg": "/react-admin-panel/static/media/8.0f9b873d6f3e08ae11f0.jpg",
+    "static/media/1.jpg": "/react-admin-panel/static/media/1.a97caa413bffc750ad3f.jpg",
+    "static/media/6.jpg": "/react-admin-panel/static/media/6.b5ba4b465fe21adabc22.jpg",
+    "static/media/9.jpg": "/react-admin-panel/static/media/9.60b0dae40ac5e1aa7bde.jpg",
+    "static/media/2.jpg": "/react-admin-panel/static/media/2.07a850d4f9d6dccdd165.jpg",
+    "static/media/10.jpg": "/react-admin-panel/static/media/10.249acbe12a8f3c45f58b.jpg",
+    "static/media/4.jpg": "/react-admin-panel/static/media/4.78c006392db8457b4a13.jpg",
+    "static/media/3.jpg": "/react-admin-panel/static/media/3.60fbf60cf6f07cdf1c15.jpg",
+    "static/media/7.jpg": "/react-admin-panel/static/media/7.11256d5df1268c95a1b7.jpg",
+    "index.html": "/react-admin-panel/index.html",
+    "main.fd14b4f5.css.map": "/react-admin-panel/static/css/main.fd14b4f5.css.map",
+    "main.3624804c.js.map": "/react-admin-panel/static/js/main.3624804c.js.map",
+    "453.e85d92eb.chunk.js.map": "/react-admin-panel/static/js/453.e85d92eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd14b4f5.css",
+    "static/js/main.3624804c.js"
+  ]
+}
