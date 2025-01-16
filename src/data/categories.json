@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "isParent": true,
+      "name": "Чехлы",
+      "subcategories": [
+        {
+          "name": "ТИП АКСЕССУАРА",
+          "subcategories": [
+            { "name": "Ультратонкий", "subcategories": [] },
+            { "name": "Silicone case", "subcategories": [] },
+            { "name": "Книжка", "subcategories": [] },
+            { "name": "Противоударный", "subcategories": [] },
+            { "name": "Принт", "subcategories": [] },
+            { "name": "Блестки / Стразы", "subcategories": [] },
+            { "name": "360 градусов", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "МАТЕРИАЛ АКСЕССУАРА",
+          "subcategories": [
+            { "name": "Силикон", "subcategories": [] },
+            { "name": "TPU", "subcategories": [] },
+            { "name": "TPU+PC", "subcategories": [] },
+            { "name": "TPU+Glass", "subcategories": [] },
+            { "name": "Пластик", "subcategories": [] },
+            { "name": "Искусственная кожа", "subcategories": [] },
+            { "name": "Ткань", "subcategories": [] },
+            { "name": "Алюминий", "subcategories": [] },
+            { "name": "Алькантара", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "ОБЩИЕ ТОВАРЫ",
+          "subcategories": [
+            { "name": "Упаковка для чехлов", "subcategories": [] },
+            { "name": "Универсальные чехлы", "subcategories": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "isParent": true,
+      "name": "Стекла / пленки",
+      "subcategories": [
+        {
+          "name": "БРЕНД",
+          "subcategories": [
+            { "name": "SKLO", "subcategories": [] },
+            { "name": "Nillkin", "subcategories": [] },
+            { "name": "Mocolo", "subcategories": [] },
+            { "name": "BlueO", "subcategories": [] },
+            { "name": "Ganesh", "subcategories": [] },
+            { "name": "Shiva", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "ТИП АКСЕССУАРА",
+          "subcategories": [
+            { "name": "С рамкой", "subcategories": [] },
+            { "name": "Без рамки", "subcategories": [] },
+            { "name": "На камеру", "subcategories": [] },
+            { "name": "Тыл", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "МАТЕРИАЛ",
+          "subcategories": [
+            { "name": "Закаленное стекло", "subcategories": [] },
+            { "name": "Гибкое стекло", "subcategories": [] },
+            { "name": "Бронированная пленка", "subcategories": [] },
+            { "name": "Пленка", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "ТИП ПОКЛЕЙКИ СТЕКЛА/ПЛЁНКИ",
+          "subcategories": [
+            { "name": "Полная", "subcategories": [] },
+            { "name": "По краю", "subcategories": [] },
+            { "name": "Ультрафиолет", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "ТИП СКРУГЛЕНИЯ СТЕКЛА/ПЛЁНКИ",
+          "subcategories": [
+            { "name": "3D", "subcategories": [] },
+            { "name": "2,5D", "subcategories": [] },
+            { "name": "2D", "subcategories": [] }
+          ]
+        },
+        {
+          "name": "ОБЩИЕ ТОВАРЫ",
+          "subcategories": [
+            { "name": "Плоттеры и комплектующие", "subcategories": [] },
+            { "name": "Упаковка и расходники для стекол", "subcategories": [] }
+          ]
+        }
+      ]
+    },
+    { "isParent": true, "name": "Зарядные Устройства", "subcategories": [] },
+    { "isParent": true,"name": "Аудио", "subcategories": [] },
+    { "isParent": true,"name": "Автоаксессуары", "subcategories": [] },
+    { "isParent": true,"name": "Кабели / Переходники", "subcategories": [] },
+    { "isParent": true,"name": "Для дома / Офиса", "subcategories": [] }
+  ]
+}
